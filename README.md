@@ -1,19 +1,21 @@
-## Hi there 👋
+## Hei there! 👋
 
-I'm Adal, a Business Consultant based in Finland.
+🧑‍💼 I'm Adal, a Business Consultant based in Finland.
 
+📊 I use my consulting expertise, business analytics tools, and economics knowledge to solve complex business problems.
 
-<!--
-**adalrv/adalrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ My favorite tools are R, SQL, Power BI, Tableau, Excel, Apify, and Gemini.
 
-Here are some ideas to get you started:
+💼 In my portfolio, you will find:
+* 🧠 Executive resume of my Master's Thesis on how to improve savings habits using Behavioral Nudges in an RCT.
+* 🌱 A Double Materiality Assessment where I analyzed environmental and social impacts alongside financial risks.
+* 🏘️ A Real Estate dashboard for helping top-tier stakeholders make data-driven decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Outside of Work & Academia
+* 🥐 I'm an active baker, continuously working on mastering complex recipes like croissants and various desserts.
+* 🏃‍♂️ I maintain an active lifestyle at the gym.
+* 🎮 In my downtime, I enjoy exploring immersive cooperative games like *No Man's Sky* and *Warframe*.
+
+📫 Let's Connect!
+* **LinkedIn:** [Adalberto Rosendo Vargas](https://www.linkedin.com/in/adalberto-rosendo-vargas/) 
+* **Email:** rosendoadal@gmail.com
