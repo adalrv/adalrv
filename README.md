@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Adal, a Business Consultant based in Finland.
+
+
 <!--
 **adalrv/adalrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
