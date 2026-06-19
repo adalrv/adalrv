@@ -4,7 +4,7 @@
 
 📊 I use my consulting expertise, business analytics tools, and economics knowledge to solve complex business problems.
 
-🛠️ My favorite tools are R, SQL, Power BI, Tableau, Excel, Apify, and Gemini.
+🛠️ My favorite tools are R, SQL, Power BI, Tableau and Excel.
 
 💼 In my portfolio, you will find:
 * 🏘️ A [Real Estate Dashboard](https://github.com/adalrv/Finland-Real-Estate-Market-Dashboard) for helping top-tier stakeholders take data-driven decisions.
