@@ -7,7 +7,7 @@
 🛠️ My favorite tools are R, SQL, Power BI, Tableau, Excel, Apify, and Gemini.
 
 💼 In my portfolio, you will find:
-* 🏘️ A [Real Estate dashboard](https://github.com/adalrv/Finland-Real-Estate-Market-Dashboard) for helping top-tier stakeholders take data-driven decisions.
+* 🏘️ A [Real Estate Dashboard](https://github.com/adalrv/Finland-Real-Estate-Market-Dashboard) for helping top-tier stakeholders take data-driven decisions.
 * 🌱 A [Double Materiality Assessment](https://github.com/adalrv/Double-Materiality-Assessment-Lindex-Group) where I analyzed environmental and social impacts alongside financial risks.
 * 🧠 Executive resume of my Master's Thesis on how to improve savings habits using Behavioral Nudges in an RCT.
 
