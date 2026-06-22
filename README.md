@@ -9,7 +9,6 @@
 💼 In my portfolio, you will find:
 * 🏘️ A [Real Estate Dashboard](https://github.com/adalrv/Finland-Real-Estate-Market-Dashboard) for helping top-tier stakeholders take data-driven decisions.
 * 🌱 A [Double Materiality Assessment](https://github.com/adalrv/Double-Materiality-Assessment-Lindex-Group) where I analyzed environmental and social impacts alongside financial risks.
-* 🧠 Executive resume of my Master's Thesis on how to improve savings habits using Behavioral Nudges in an RCT.
 
 ⚡ Outside of Work & Academia
 * 🥐 I'm an active baker, continuously working on mastering complex recipes like croissants and various desserts.
