@@ -12,7 +12,7 @@
 
 ⚡ Outside of Work & Academia
 * 🥐 I'm an active baker, continuously working on mastering complex recipes like croissants and various desserts.
-* 🏃‍♂️ I maintain an active lifestyle at the gym.
+* 🏃‍♂️ I maintain an active lifestyle.
 * 🎮 In my downtime, I enjoy cooperative games like *No Man's Sky* and *Warframe*.
 
 📫 Let's Connect!
